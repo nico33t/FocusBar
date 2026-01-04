@@ -1,8 +1,6 @@
 # FocusBar 🍅
 Un timer Pomodoro minimalista e nativo per macOS, che vive nella Menu Bar.
 
-![Screenshot](link-al-tuo-screenshot-o-gif.png)
-
 ## 🚀 Caratteristiche
 * **Nativo:** Scritto in Swift.
 * **Moderno:** Utilizza l'API `MenuBarExtra` di macOS 13+.
